@@ -46,7 +46,13 @@ The model origin is the **centre of the pad field** (pin field ±12 mm, antenna 
 
 If your footprint has its origin somewhere else (e.g. on pin 1), set the offset accordingly.
 
+## License
+
+The 3D model is released under **CC-BY-SA 4.0 with the KiCad library exception** — the same terms as the official KiCad libraries.
+You can use it in any PCB design (including closed-source and commercial ones) without the design falling under CC-BY-SA.
+Modified versions of the files themselves must keep attribution and stay under CC-BY-SA 4.0. See [LICENSE.md](LICENSE.md).
+
 ## Disclaimer
 
 - The datasheet is **preliminary (v0.7)**. Check dimensions against the current Espressif documentation before ordering boards.
-- *Espressif*, *ESP32* and the Espressif logo are trademarks of Espressif Systems. The marking on the model only visualises the product. This project is not affiliated with Espressif.
+- *Espressif*, *ESP32* and the Espressif logo are trademarks of Espressif Systems. The marking on the model only visualises the product. Trademarks are not covered by the license. This project is not affiliated with Espressif.
