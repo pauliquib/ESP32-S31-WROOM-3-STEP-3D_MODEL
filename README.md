@@ -22,7 +22,7 @@ A detailed STEP model of the Espressif **ESP32-S31-WROOM-3** module (Wi-Fi 6, Bl
 
 ## Model
 
-Dimensions follow the *ESP32-S31-WROOM-3 & WROOM-3U Datasheet* v0.7, Fig. 10-1 and Fig. 11-1:
+Dimensions follow the *ESP32-S31-WROOM-3 & WROOM-3U Datasheet* v0.7, Fig. 10-1 and Fig. 11-1 — **<https://documentation.espressif.com/esp32-s31-wroom-3_wroom-3u_datasheet_en.pdf>**:
 
 - **Module:** 22 × 30 × 3.5 mm; module PCB 1.0 mm; 6 mm antenna area at the top.
 - **Shield can:** 21 × 23 mm, 0.5 mm from the left, right and bottom edges, 0.25 mm edge radius, Ø 0.5 mm marking dot in the lower-left corner.
@@ -33,7 +33,7 @@ Dimensions follow the *ESP32-S31-WROOM-3 & WROOM-3U Datasheet* v0.7, Fig. 10-1 a
 - **White shield marking:**
   - inlaid 0.02 mm, so the height stays 3.5 mm,
   - contains the logo, the part number, the manufacturer lines, a lot-code placeholder and a real QR code (`ESP32-S31-WROOM-3-N16R32V`),
-  - layout follows the Espressif product photo; the logo and wordmark are approximations.
+  - layout is taken from/based on the official Espressif datasheet referenced above; the logo and wordmark are approximations.
 - **Antenna meander:** representative only. It does not reproduce the module's actual antenna geometry.
 - **Style:** colours and overall look follow the KiCad library model of the ESP32-S3-WROOM-2.
 
