@@ -50,7 +50,7 @@ If your footprint has its origin somewhere else (e.g. on pin 1), set the offset 
 
 The 3D model is released under **CC-BY-SA 4.0 with the KiCad library exception** — the same terms as the official KiCad libraries.
 You can use it in any PCB design (including closed-source and commercial ones) without the design falling under CC-BY-SA.
-Modified versions of the files themselves must keep attribution and stay under CC-BY-SA 4.0. See [LICENSE.md](LICENSE.md).
+Modified versions of the files themselves must keep attribution and stay under CC-BY-SA 4.0. See [NOTICE.md](NOTICE.md) for the exception and [LICENSE](LICENSE) for the full text.
 
 ## Disclaimer
 
